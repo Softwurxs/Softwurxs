@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zack, an engineer, full-stack developer, and creator. I am an MIT student who loves to create solutions to unknown problems & design smart home products. 
+## Hi there 👋 I'm Zack, an engineer, full-stack developer, and creator of things. I am an MIT student who loves to design smart home products & create solutions to unknown problems. 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,mongodb,react,express,nodejs,py,angular,cs,postgres,redux,bootstrap,flask,mysql,docker,tensorflow,cpp)](https://skillicons.dev)
 
