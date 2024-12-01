@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on https://en.wikipedia.org/wiki/Internet_of_things
 - 🤔 I’m looking for help with https://en.wikipedia.org/wiki/Zigbee
 - 📫 How to reach me: skunkWareLabs@gmail.com
-- ⚡ Fun fact: I love playing Ice Hockey and Racing Cars!
+- ⚡ Fun fact: I love ice hockey & racecars!
 
 - ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/softwurx/:repo/.gitattributes)
