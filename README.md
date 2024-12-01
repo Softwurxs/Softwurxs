@@ -8,3 +8,5 @@
 - 🤔 I’m looking for help with https://en.wikipedia.org/wiki/Zigbee
 - 📫 How to reach me: skunkWareLabs@gmail.com
 - ⚡ Fun fact: I love playing Ice Hockey and Racing Cars!
+
+- ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/softwurx/:repo/.gitattributes)
