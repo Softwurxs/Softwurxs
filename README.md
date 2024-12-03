@@ -2,9 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,react,express,nodejs,py,angular,gcp,postgres,redux,aws,docker,tensorflow)](https://skillicons.dev)
 
-- 🔭 I’m currently working on github.com/Softwurxs/fizzBuzz-JS
-- 🌱 I’m currently learning at mit.edu
-- 👯 I’m looking to collaborate on en.wikipedia.org/wiki/Zigbee
+- 🔭 I’m currently working on [https://github.com/Softwurxs/My-Portfolio-Repository](https://github.com/Softwurxs/fizzBuzz-JS)
+- 🌱 I’m currently learning at https://www.mit.edu/
+- 👯 I’m looking to collaborate on https://en.wikipedia.org/wiki/Zigbee
 - 📫 How to reach me: skunkWareLabs@gmail.com
 
   
