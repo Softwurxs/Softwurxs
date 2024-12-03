@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning at https://www.mit.edu/
 - 👯 I’m looking to collaborate on https://en.wikipedia.org/wiki/Zigbee
 - 📫 How to reach me: skunkWareLabs@gmail.com
-- ⚡ Fun fact: I love ice hockey & racecars!
+
+  
 
 - ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/softwurx/:repo/.gitattributes)
